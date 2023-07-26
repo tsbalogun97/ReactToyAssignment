@@ -3,7 +3,7 @@ import React from 'react'
 function Title() {
   return (
     <header>
-      <h1>ToyRus</h1>
+      <h1>Walmart</h1>
     </header>
   )
 }
